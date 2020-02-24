@@ -1,0 +1,14 @@
+使用 Tab 键补全命令
+
+基本常用命令
+1、目录操作命令
+命令	英文全称	功能描述	举例
+pwd	print working directory	显示当前目录的路径名	pwd
+ls	list directory contents	显示当前目录的内容	ls
+cd	change directory	改变当前目录	cd Desktop
+mkdir	make directory	创建目录	mkdir a.txt
+rmdir	remove directory	删除目录	rkdir a.txt
+2、文件操作命令
+命令	英文全称	功能描述	举例
+touch	touch	新建一个文件	touch a.html
+rm	remove	删除文件或者目录	rm a.html
